@@ -1,0 +1,1 @@
+<resources><style name="Theme.SmsLedger" parent="android:style/Theme.Material.Light.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:windowLightStatusBar">true</item><item name="android:colorAccent">#176A5A</item></style></resources>
